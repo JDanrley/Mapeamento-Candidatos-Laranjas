@@ -72,8 +72,8 @@ Gráficamente, a divisão dos grupos é esta:
 
 A exata proporção oposta ocorre quando o grupo analisado é o de membros sem nenhum voto:
 
-- 1.549 homens;
-- 3.079 mulheres.
+- 1.549 candidatos homens;
+- 3.079 candidatas mulheres.
 
 ![Gênero](https://github.com/JDanrley/Mapeamento-Candidatos-Laranjas/blob/main/results/generoPizza.jpg?raw=true)
 
