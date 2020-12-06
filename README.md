@@ -22,9 +22,9 @@ Mapear e identificar possíveis candidaturas de fachada, com base na ausência d
 
 Para os fins do estudo, definimos as seguintes regras para reconhecer uma candidatura como possível laranja:
 
-- Totais de votos recebidos igual a zero;
+- Total de votos recebidos igual a zero;
 - Candidatura apta a estar na urna e deferida pela Justiça Eleitoral;
-- Disputa do pleito, no ano de 2020, ao cargo de vereador.
+- Disputa do pleito realizada no ano de 2020, disputando o cargo de vereador.
 
 A última condição foi firmada pela improbabilidade de se firmar uma candidatura majoritária ao executivo que não fosse reconhecida e válida.
 
